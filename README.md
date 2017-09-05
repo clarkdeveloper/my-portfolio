@@ -1,5 +1,5 @@
 # Jesse Clark's Portfolio
-THis is my professional portfolio.
+This is my professional portfolio.
 
 The site uses AWS as a Back-end utilizing
 * S3
